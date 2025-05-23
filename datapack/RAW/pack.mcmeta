@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 15,
+		"pack_format": 48,
 		"description": "Makes Minecolony Bakers use dough instead of wheat for advanced bread recipes"
   }
 }
